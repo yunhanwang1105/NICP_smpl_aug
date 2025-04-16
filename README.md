@@ -5,7 +5,7 @@ Please follow the instruction in the [SMPL AUGMENTATION LIBRARY](https://github.
 
 Augmentations types:
 
-minimal -> Minimally clothed point cloud 
+minimal -> Minimally clothed point cloud (Baseline)
 
 minimal_aug -> Minimally clothed point cloud + pose augmentation
 
